@@ -1,0 +1,7 @@
+streamlit==0.55.0
+requests==2.22.0
+Flask==1.1.1
+numpy>=1.9.2
+Flask_Cors==3.0.8
+opencv-python==4.2.0
+gunicorn==19.9.0
