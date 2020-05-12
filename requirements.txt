@@ -1,10 +1,4 @@
 streamlit==0.59.0
-requests==2.23.0
-Flask==1.1.2
 numpy==1.18.1
-Flask_Cors==3.0.8
-opencv-python==4.2.0.34
-opencv-contrib-python==4.2.0.34
-gunicorn==19.9.0
-Werkzeug==1.0.1
+opencv_python==4.2.0.34
 Pillow==7.1.2
