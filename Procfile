@@ -1,1 +1,1 @@
-web: streamlit run --server.enableCORS false --server.port $PORT upload.py
+web: sh setup.sh && streamlit run upload.py
