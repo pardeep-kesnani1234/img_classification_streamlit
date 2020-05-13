@@ -1,1 +1,1 @@
-'web: sh setup.sh && streamlit run upload.py'
+web: sh setup.sh && streamlit run My_First_App_Streamlit.py
